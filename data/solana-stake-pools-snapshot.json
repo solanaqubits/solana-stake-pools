@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Phase",
+    "approxStakeSol": 1080000,
+    "validators": 97,
+    "avgStakePerValidatorSol": 11100,
+    "difficulty": "1",
+    "bestFit": "SFDP + <300k SOL + ecosystem contribution",
+    "officialLinks": [
+      "https://phase.cc/apply",
+      "https://phase.cc/delegation"
+    ]
+  },
+  {
+    "name": "JPool",
+    "approxStakeSol": 1289000,
+    "validators": 202,
+    "avgStakePerValidatorSol": 6400,
+    "difficulty": "2",
+    "bestFit": "Practical target; bond/direct stake/contribution",
+    "officialLinks": [
+      "https://docs.jpool.one/delegation-strategy/how-to-join-jpool-delegation-program.html",
+      "https://docs.jpool.one/delegation-strategy/inclusion-and-removal-criteria.html"
+    ]
+  },
+  {
+    "name": "BlazeStake",
+    "approxStakeSol": 1034000,
+    "validators": 171,
+    "avgStakePerValidatorSol": 6100,
+    "difficulty": "2",
+    "bestFit": "Good target with clean performance; if stake is >50k, 0/0 is better",
+    "officialLinks": [
+      "https://stake-docs.solblaze.org/protocol/delegation-strategy"
+    ]
+  },
+  {
+    "name": "DynoSol",
+    "approxStakeSol": 1637000,
+    "validators": 77,
+    "avgStakePerValidatorSol": 21300,
+    "difficulty": "3",
+    "bestFit": "Human/curated review; rules are less strictly formalized",
+    "officialLinks": [
+      "https://docs.dynosol.io/",
+      "https://www.dynosol.io/#stats"
+    ]
+  },
+  {
+    "name": "DoubleZero",
+    "approxStakeSol": 5174000,
+    "validators": 377,
+    "avgStakePerValidatorSol": 13700,
+    "difficulty": "3–4",
+    "bestFit": "Strong target only if there is DZ connectivity + 10k external stake",
+    "officialLinks": [
+      "https://doublezero.xyz/dzdp"
+    ]
+  },
+  {
+    "name": "Definity",
+    "approxStakeSol": 265000,
+    "validators": 30,
+    "avgStakePerValidatorSol": 8800,
+    "difficulty": "3 if region fits",
+    "bestFit": "Requires SFDP + regional mission",
+    "officialLinks": [
+      "https://definity.finance/whitelist-apply"
+    ]
+  },
+  {
+    "name": "JagPool",
+    "approxStakeSol": 727000,
+    "validators": 82,
+    "avgStakePerValidatorSol": 8900,
+    "difficulty": "3 if region fits",
+    "bestFit": "LATAM/APAC/South Africa; SFDP or 40k external stake",
+    "officialLinks": [
+      "https://docs.jagpool.xyz/DELEGATION-STRATEGY/Delegation-Criteria",
+      "https://docs.jagpool.xyz/DELEGATION-STRATEGY/Validator-Application-Process"
+    ]
+  },
+  {
+    "name": "Edgevana",
+    "approxStakeSol": 820000,
+    "validators": 51,
+    "avgStakePerValidatorSol": 16100,
+    "difficulty": "4",
+    "bestFit": "Only Edgevana infrastructure + top 50 ranking; age tier is important",
+    "officialLinks": [
+      "https://stake.edgevana.com/validators",
+      "https://stake.edgevana.com/docs/validators/eligibility",
+      "https://stake.edgevana.com/docs/validators/delegation-strategy-algorithm",
+      "https://nodes.edgevana.com/launch"
+    ]
+  },
+  {
+    "name": "SolStrategies",
+    "approxStakeSol": 597000,
+    "validators": 70,
+    "avgStakePerValidatorSol": 8500,
+    "difficulty": "4",
+    "bestFit": "Main path is high 30-day StakeWiz score",
+    "officialLinks": [
+      "https://support.solstrategies.io/stke-stake-pool/delegation-strategy"
+    ]
+  },
+  {
+    "name": "Vault",
+    "approxStakeSol": 1327000,
+    "validators": 168,
+    "avgStakePerValidatorSol": 7900,
+    "difficulty": "4",
+    "bestFit": "Baseline <5% commission; elite performance path is effectively 0/0",
+    "officialLinks": [
+      "https://docs.thevault.finance/delegation/validator-application-process"
+    ]
+  },
+  {
+    "name": "Marinade",
+    "approxStakeSol": 2480000,
+    "validators": 44,
+    "avgStakePerValidatorSol": 56400,
+    "difficulty": "5",
+    "bestFit": "SAM/PSR bond and bid economics",
+    "officialLinks": [
+      "https://docs.marinade.finance/marinade-protocol/protocol-overview/stake-auction-market/eligibility-criteria"
+    ]
+  },
+  {
+    "name": "Jito",
+    "approxStakeSol": 9772000,
+    "validators": 264,
+    "avgStakePerValidatorSol": 37000,
+    "difficulty": "5",
+    "bestFit": "BAM/JIP path effectively requires 0% inflation commission",
+    "officialLinks": [
+      "https://www.jito.network/docs/jitosol/jitosol-liquid-staking/stake-pool-operations/delegation-criteria/",
+      "https://forum.jito.network/t/jip-28-accelerate-bam-adoption/904"
+    ]
+  },
+  {
+    "name": "Shinobi xSHIN",
+    "approxStakeSol": 1068000,
+    "validators": 62,
+    "avgStakePerValidatorSol": 17200,
+    "difficulty": "5",
+    "bestFit": "Performance-history target; not quick outreach",
+    "officialLinks": [
+      "https://xshin.fi/#Strategy"
+    ]
+  }
+]
