@@ -4,6 +4,8 @@ Structured Solana stake pool and delegation program data maintained by Solana Qu
 
 Website: <https://solanaqubits.com>
 
+Research hub: <https://solanaqubits.com/research>
+
 Research article: <https://solanaqubits.com/resources/solana-stake-pool-delegation-landscape>
 
 Research repository: <https://github.com/solanaqubits/solanaqubits-research>
