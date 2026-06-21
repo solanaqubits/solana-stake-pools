@@ -14,13 +14,15 @@ X/Twitter: <https://x.com/solanaqubits>
 
 ## Contents
 
-- `data/solana-stake-pools-snapshot.json` — structured snapshot of 13 Solana stake pool or delegation programs.
+- `data/solana-stake-pools-snapshot.json` — structured snapshot of 13 Solana stake pool or delegation programs, including optional resource links for dashboards, scoring methodology, calculators, and application/interest resources.
 - `docs/solana-stake-pool-delegation-landscape.md` — Markdown copy of the related research article.
 - `sources/official-links.md` — official source links grouped by pool/program.
 
 ## Data notes
 
 Stake, validator counts, and average values are approximate and rounded for practical comparison. Pool rules, validator counts, stake distribution, and eligibility criteria can change. Always verify current information with official sources.
+
+Some entries include optional `resourceLinks` for public validator dashboards, delegation dashboards, scoring methodology, calculators, application or interest forms, and source-linked program updates. Dynamic dashboards should be verified live before reuse.
 
 ## Disclaimer
 

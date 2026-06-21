@@ -9,6 +9,38 @@
     "officialLinks": [
       "https://phase.cc/apply",
       "https://phase.cc/delegation"
+    ],
+    "resourceLinks": [
+      {
+        "type": "analytics",
+        "label": "Phase SFDP analytics",
+        "url": "https://phase.cc/tools/sfdp",
+        "note": "Public SFDP analytics resource; verify current values live."
+      },
+      {
+        "type": "scoringMethodology",
+        "label": "Phase IPS methodology",
+        "url": "https://phase.cc/delegation/ips",
+        "note": "Index Power Score methodology; criteria and weights can change."
+      },
+      {
+        "type": "programUpdate",
+        "label": "Phase SFDP data update",
+        "url": "https://phase.cc/blog/solana-foundation-delegation-program-data",
+        "note": "Source-linked program update and SFDP context."
+      },
+      {
+        "type": "validatorList",
+        "label": "Phase validator dashboard",
+        "url": "https://phase.cc/delegation/validators",
+        "note": "Dynamic validator dashboard; verify current values live."
+      },
+      {
+        "type": "socialUpdate",
+        "label": "Phase X update",
+        "url": "https://x.com/phase_/status/2067995658779554300",
+        "note": "Social/update source only; not primary documentation."
+      }
     ]
   },
   {
@@ -21,6 +53,20 @@
     "officialLinks": [
       "https://docs.jpool.one/delegation-strategy/how-to-join-jpool-delegation-program.html",
       "https://docs.jpool.one/delegation-strategy/inclusion-and-removal-criteria.html"
+    ],
+    "resourceLinks": [
+      {
+        "type": "validatorList",
+        "label": "JPool validators dashboard",
+        "url": "https://app.jpool.one/validators",
+        "note": "Dynamic validator dashboard/list; verify live values directly."
+      },
+      {
+        "type": "application",
+        "label": "JPool Community Good validator stake application form",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc7GX3g2womS6sGHNZU8cau4K5ZyEmlSZ0ZdrBpKhP86q11tQ/viewform",
+        "note": "Application/interest form only; applying does not guarantee delegation."
+      }
     ]
   },
   {
@@ -55,6 +101,14 @@
     "bestFit": "Strong target only if there is DZ connectivity + 10k external stake",
     "officialLinks": [
       "https://doublezero.xyz/dzdp"
+    ],
+    "resourceLinks": [
+      {
+        "type": "calculator",
+        "label": "DoubleZero DZDP calculator",
+        "url": "https://doublezero.xyz/dzdp/calculator",
+        "note": "Calculator/planning resource; not a generic validator ranking page."
+      }
     ]
   },
   {
@@ -92,6 +146,14 @@
       "https://stake.edgevana.com/docs/validators/eligibility",
       "https://stake.edgevana.com/docs/validators/delegation-strategy-algorithm",
       "https://nodes.edgevana.com/launch"
+    ],
+    "resourceLinks": [
+      {
+        "type": "validatorList",
+        "label": "Edgevana validator list",
+        "url": "https://stake.edgevana.com/validators",
+        "note": "Dynamic validator page/list; verify live content directly."
+      }
     ]
   },
   {
@@ -114,6 +176,14 @@
     "bestFit": "Baseline <5% commission; elite performance path is effectively 0/0",
     "officialLinks": [
       "https://docs.thevault.finance/delegation/validator-application-process"
+    ],
+    "resourceLinks": [
+      {
+        "type": "delegationDocs",
+        "label": "Vault board-gated delegation buckets",
+        "url": "https://docs.thevault.finance/delegation/approved-validators#board-gated-delegation-buckets",
+        "note": "Board-gated eligibility and bucket-based delegation docs; eligibility does not guarantee allocation."
+      }
     ]
   },
   {
@@ -125,6 +195,38 @@
     "bestFit": "SAM/PSR bond and bid economics",
     "officialLinks": [
       "https://docs.marinade.finance/marinade-protocol/protocol-overview/stake-auction-market/eligibility-criteria"
+    ],
+    "resourceLinks": [
+      {
+        "type": "delegationDocs",
+        "label": "Marinade Select docs",
+        "url": "https://docs.marinade.finance/marinade-protocol/protocol-overview/marinade-select.md",
+        "note": "Curated/vetted validator set for institutional staking; acceptance or delegation is not implied."
+      },
+      {
+        "type": "programUpdate",
+        "label": "Marinade Select announcement",
+        "url": "https://marinade.finance/blog/marinade-select-unlocking-institutional-staking-on-solana",
+        "note": "Public announcement/source context for Marinade Select."
+      },
+      {
+        "type": "delegationDocs",
+        "label": "Marinade institutions page",
+        "url": "https://marinade.finance/institutions",
+        "note": "Institutional staking context and Marinade Select overview."
+      },
+      {
+        "type": "delegationDashboard",
+        "label": "Marinade SAM resources",
+        "url": "https://docs.marinade.finance/marinade-protocol/protocol-overview/stake-auction-market/sam-resources.md",
+        "note": "SAM dashboards, APIs, repositories, and reference resources."
+      },
+      {
+        "type": "delegationDocs",
+        "label": "Marinade SAM stake matching",
+        "url": "https://docs.marinade.finance/marinade-protocol/protocol-overview/stake-auction-market/stake-matching.md",
+        "note": "Stake matching documentation; verify current parameters with official sources."
+      }
     ]
   },
   {
@@ -137,6 +239,14 @@
     "officialLinks": [
       "https://www.jito.network/docs/jitosol/jitosol-liquid-staking/stake-pool-operations/delegation-criteria/",
       "https://forum.jito.network/t/jip-28-accelerate-bam-adoption/904"
+    ],
+    "resourceLinks": [
+      {
+        "type": "delegationDashboard",
+        "label": "Jito StakeNet Steward",
+        "url": "https://www.jito.network/stakenet/steward/",
+        "note": "Dynamic StakeNet Steward dashboard/resource; verify live values directly."
+      }
     ]
   },
   {
@@ -148,6 +258,14 @@
     "bestFit": "Performance-history target; not quick outreach",
     "officialLinks": [
       "https://xshin.fi/#Strategy"
+    ],
+    "resourceLinks": [
+      {
+        "type": "scoringDashboard",
+        "label": "xSHIN validators page",
+        "url": "https://xshin.fi/#Validators",
+        "note": "Dynamic validators/scoring page; verify live values and page status directly."
+      }
     ]
   }
 ]
