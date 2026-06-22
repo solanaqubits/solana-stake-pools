@@ -226,6 +226,12 @@
         "label": "Marinade SAM stake matching",
         "url": "https://docs.marinade.finance/marinade-protocol/protocol-overview/stake-auction-market/stake-matching.md",
         "note": "Stake matching documentation; verify current parameters with official sources."
+      },
+      {
+        "type": "thirdPartyDashboard",
+        "label": "ValidBlocks Marinade Select dashboard",
+        "url": "https://dashboards.validblocks.com/marinade-select",
+        "note": "Third-party dynamic dashboard for Marinade Select institutional bond/TVL/settlement context; not official program rules and does not imply acceptance, participation, eligibility, or delegation."
       }
     ]
   },
@@ -246,6 +252,12 @@
         "label": "Jito StakeNet Steward",
         "url": "https://www.jito.network/stakenet/steward/",
         "note": "Dynamic StakeNet Steward dashboard/resource; verify live values directly."
+      },
+      {
+        "type": "thirdPartyDashboard",
+        "label": "ValidBlocks BAM Claims dashboard",
+        "url": "https://dashboards.validblocks.com/bam-claims",
+        "note": "Third-party dynamic dashboard for Jito BAM Early Adopter Subsidy claim status; use for monitoring, not as an official eligibility, acceptance, or delegation guarantee."
       }
     ]
   },
