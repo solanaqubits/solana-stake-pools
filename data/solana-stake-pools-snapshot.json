@@ -228,6 +228,12 @@
         "note": "Stake matching documentation; verify current parameters with official sources."
       },
       {
+        "type": "tooling",
+        "label": "Marinade Validator Bonds agent skills",
+        "url": "https://github.com/marinade-finance/validator-bonds#agent-skills",
+        "note": "Official Marinade Validator Bonds repository section for protocol-context agent skills/tooling. Tooling reference only; does not imply participation, eligibility, acceptance, delegation, partnership, endorsement, or guaranteed stake."
+      },
+      {
         "type": "thirdPartyDashboard",
         "label": "ValidBlocks Marinade Select dashboard",
         "url": "https://dashboards.validblocks.com/marinade-select",
